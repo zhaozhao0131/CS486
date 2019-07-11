@@ -1,2 +1,2 @@
 # CS486
-Database
+Database - SQL
